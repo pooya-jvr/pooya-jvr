@@ -21,12 +21,12 @@ A passionate software developer from Iran, focused on Python and web technologie
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pooya-jvr" alt="Github Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=pooya-jvr" alt="Github Stats" theme=radical>
 </p>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=pooya-jvr" alt="GitHub Streak" theme=tokyonight>
+    <img src="https://streak-stats.demolab.com/?user=pooya-jvr" alt="GitHub Streak">
   </a>
 </p>
 
