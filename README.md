@@ -18,27 +18,6 @@ A passionate software developer from Iran, focused on Python and web technologie
 - 🌱 Learning more about **Django, Python**
 - 📫 Reach me at **pooya.jv@gmail.com**
 
-## 🛠 My Skills
-
-- Python
-- Django
-- DBSM
-- BI
-
-## 🚀 Projects
-
-### Project 1: **[Project Name](https://github.com/pooya-jvr/project1)**
-
-![Project 1 Preview](https://via.placeholder.com/150x150?text=Project+1)
-
-A web application built with **Python and Django** that demonstrates best practices in backend development.
-
-### Project 2: **[Project Name](https://github.com/pooya-jvr/project2)**
-
-![Project 2 Preview](https://via.placeholder.com/150x150?text=Project+2)
-
-A responsive website created using **HTML, CSS**, and **JavaScript**, with engaging animations.
-
 ## 📈 GitHub Stats
 
 <p align="center">
