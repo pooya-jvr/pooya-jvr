@@ -20,7 +20,6 @@ A passionate software developer from Iran, focused on Python and web technologie
 
 ## 📈 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-[![trophy](https://github-profile-trophy.vercel.app/?username=pooya-jvr)](https://github.com/pooya-jvr)
 
 <p align="center">
   <a href="https://git.io/streak-stats">
