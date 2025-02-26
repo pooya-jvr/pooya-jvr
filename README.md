@@ -42,7 +42,7 @@ A passionate software developer from Iran, focused on Python and web technologie
 
 ## 🌍 Let's Connect
 
-- LinkedIn: [Pooya Javadian-Rajavi](https://www.linkedin.com/in/pooya-javadian-73941b198/)
-- Email: [pooyajavadianrajavi@gmail.com](mailto:pooyajavadianrajavi@gmail.com)
+- LinkedIn: [Pooya Javarsine](www.linkedin.com/in/pooya-javarsine-75b574243)
+- Email: [pooya.jv@gmail.com](mailto:pooya.jv@gmail.com)
 
 Thank you for visiting my profile! Let's build something amazing together! 🚀
