@@ -26,7 +26,7 @@ A passionate software developer from Iran, focused on Python and web technologie
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=pooya-jvr" alt="GitHub Streak">
+    <img src="https://streak-stats.demolab.com/?user=pooya-jvr" alt="GitHub Streak" theme=tokyonight>
   </a>
 </p>
 
