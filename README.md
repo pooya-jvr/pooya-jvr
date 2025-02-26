@@ -11,15 +11,15 @@ A passionate software developer from Iran, focused on Python and web technologie
 ## About Me
 
 - 🔭 Currently working on **web development projects**
-- 🌱 Learning more about **Django, Python**, and **modern JavaScript frameworks**
-- 📫 Reach me at **pooyajavadianrajavi@gmail.com**
+- 🌱 Learning more about **Django, Python**
+- 📫 Reach me at **pooya.jv@gmail.com**
 
 ## 🛠 My Skills
 
 - Python
 - Django
-- JavaScript
-- HTML5 & CSS3
+- DBSM
+- BI
 
 ## 🚀 Projects
 
