@@ -42,8 +42,11 @@ A responsive website created using **HTML, CSS**, and **JavaScript**, with engag
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=pooya-jvr)](https://github.com/pooya-jvr)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=pooya-jvr)](https://git.io/streak-stats)
-
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=pooya-jvr" alt="GitHub Streak">
+  </a>
+</p>
 ## 🌍 Let's Connect
 
 - LinkedIn: [Pooya Javadian-Rajavi](https://www.linkedin.com/in/pooya-javadian-73941b198/)
