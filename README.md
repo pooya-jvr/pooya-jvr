@@ -2,7 +2,7 @@
 
 A passionate software developer from Iran, focused on Python and web technologies.
 
-![Profile Banner](https://via.placeholder.com/800x200?text=Profile+Banner)  
+![Perplexity](https://img.shields.io/badge/perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=088F8F)
 
 ## About Me
 
