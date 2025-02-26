@@ -25,10 +25,6 @@ A passionate software developer from Iran, focused on Python and web technologie
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pooya-jvr" alt="Top Langs">
-</p>
-
-<p align="center">
   <a href="https://github.com/pooya-jvr">
     <img src="https://github-profile-trophy.vercel.app/?username=pooya-jvr" alt="Trophy">
   </a>
