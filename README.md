@@ -19,13 +19,9 @@ A passionate software developer from Iran, focused on Python and web technologie
 - 📫 Reach me at **pooya.jv@gmail.com**
 
 ## 📈 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pooya-jvr&show_icons=true&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=pooya-jvr)](https://git.io/streak-stats)
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=pooya-jvr" alt="GitHub Streak">
-  </a>
-</p>
+
 
 <p align="center">
   <a href="https://github.com/pooya-jvr">
