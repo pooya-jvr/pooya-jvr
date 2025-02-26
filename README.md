@@ -37,16 +37,26 @@ A responsive website created using **HTML, CSS**, and **JavaScript**, with engag
 
 ## 📈 GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=pooya-jvr)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pooya-jvr)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pooya-jvr" alt="Github Stats">
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=pooya-jvr)](https://github.com/pooya-jvr)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pooya-jvr" alt="Top Langs">
+</p>
+
+<p align="center">
+  <a href="https://github.com/pooya-jvr">
+    <img src="https://github-profile-trophy.vercel.app/?username=pooya-jvr" alt="Trophy">
+  </a>
+</p>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=pooya-jvr" alt="GitHub Streak">
   </a>
 </p>
+
 ## 🌍 Let's Connect
 
 - LinkedIn: [Pooya Javadian-Rajavi](https://www.linkedin.com/in/pooya-javadian-73941b198/)
