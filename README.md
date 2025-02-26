@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Pooya Javadian-Rajavi](https://github.com/pooya-jvr)
+# Hi there 👋, I'm [Pooya Javarsine](https://github.com/pooya-jvr)
 
 A passionate software developer from Iran, focused on Python and web technologies.
 
