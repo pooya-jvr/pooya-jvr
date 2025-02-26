@@ -19,7 +19,10 @@ A passionate software developer from Iran, focused on Python and web technologie
 - 📫 Reach me at **pooya.jv@gmail.com**
 
 ## 📈 GitHub Stats
-![Pooya GitHub stats](https://github-readme-stats.vercel.app/api?username=pooya-jvr&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pooya-jvr&show_icons=true&theme=radical" alt="Pooya GitHub stats" />
+</p>
+
 <p align="center">
   <a href="https://github.com/pooya-jvr"><img src="https://streak-stats.demolab.com?user=pooya-jvr&theme=dark&mode=weekly" alt="GitHub Streak" /></a>
 </p>
