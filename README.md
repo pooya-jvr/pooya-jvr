@@ -25,16 +25,17 @@ A passionate software developer from Iran, focused on Python and web technologie
 </p>
 
 <p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=pooya-jvr" alt="GitHub Streak">
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/pooya-jvr">
     <img src="https://github-profile-trophy.vercel.app/?username=pooya-jvr" alt="Trophy">
   </a>
 </p>
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=pooya-jvr" alt="GitHub Streak">
-  </a>
-</p>
 
 ## 🌍 Let's Connect
 
